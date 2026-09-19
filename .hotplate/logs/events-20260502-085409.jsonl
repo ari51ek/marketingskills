@@ -1,0 +1,5 @@
+{"ts":"2026-05-02T08:54:09.951Z","session":"20260502-085409","kind":"server_start","data":{"port":5500,"host":"0.0.0.0","root":"c:\\GitGIT\\marketingskills","https":false,"live_reload":true}}
+{"ts":"2026-05-02T08:54:10.525Z","session":"20260502-085409","kind":"http_request","data":{"method":"GET","path":"/","status":200,"duration_ms":0}}
+{"ts":"2026-05-02T08:54:10.842Z","session":"20260502-085409","kind":"http_request","data":{"method":"GET","path":"/favicon.ico","status":404,"duration_ms":0}}
+{"ts":"2026-05-02T08:54:10.857Z","session":"20260502-085409","kind":"ws_connect","data":{"client_id":"c0","url":"http://localhost:5500/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36","viewport":[1265,678]}}
+{"ts":"2026-05-02T08:54:13.573Z","session":"20260502-085409","kind":"ws_disconnect","data":{"client_id":"c0"}}
